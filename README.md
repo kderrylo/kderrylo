@@ -4,4 +4,8 @@
 - 🌱 I’m currently learning Machine learning, Data Science, Flutter, Specializing Natural Language Processing and Speech Recognition
 - 📫 Reach me at derrylzodxyt@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kderrylo)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kderrylo&theme=merko"><br>
+  <img src="https://streak-stats.demolab.com?user=kderrylo&theme=merko"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kderrylo&layout=compact&theme=merko">
+</p>
