@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently an Undergraduate Computer Science Student at Bina Nusantara University
-- 🌱 I’m currently learning Machine learning, Data Science, Flutter, Specializing Natural Language Processing and Speech Recognition
+- 🌱 I’m currently learning Machine learning, Deep Learning, Data, Flutter, Specializing Natural Language Processing, Computer Vision, and Speech Recognition
 - 📫 Reach me at derrylzodxyt@gmail.com
 
 <p align="center"> 
